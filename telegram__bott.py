@@ -4,7 +4,6 @@ from telebot.types import Message
 from pyowm import OWM
 
 TOKEN = '1273033338:AAFEIzyosCj2vcn3kxddrnGo7CkrrAG_dQo'
-STICKER = 'CAACAgIAAxkBAAMcXz1KXSrRXcMWopJIhq1fDbHkgQoAAgoBAAIiN44EEPfCIyzUhlYbBA'
 bot = telebot.TeleBot(TOKEN)
 
 

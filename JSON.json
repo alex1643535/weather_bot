@@ -1,0 +1,23 @@
+[
+  {
+    'update_id': 794355523 ,
+    'message': {
+      'message_id': 2 ,
+      'from': {
+        'id': 1068747697 ,
+        'is_bot': False ,
+        'first_name': 'Awesome' ,
+        'last_name': 'Alex' ,
+        'language_code': 'ru'
+      } ,
+      'chat': {
+        'id': 1068747697 ,
+        'first_name': 'Awesome' ,
+        'last_name': 'Alex' ,
+        'type': 'private'
+      } ,
+      'date': 1597845014 ,
+      'text': 'привет'
+    }
+  }
+]
